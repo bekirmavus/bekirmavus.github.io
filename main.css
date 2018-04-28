@@ -1,0 +1,20 @@
+
+
+body {
+    background: url("imgs/code.jpg");
+    background-size: scale;
+    background-repeat: no-repeat;
+}
+
+.message-container {
+    margin: 50px auto ;
+    
+    background-color: #fff;
+    width: 80%;
+    height: 30px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
